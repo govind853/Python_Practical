@@ -1,0 +1,7 @@
+a={}
+n=int(input("enter the number of pairs"))
+k=input("key")
+v=input("value")
+a.update(key:value)
+print(a)
+print(key)
