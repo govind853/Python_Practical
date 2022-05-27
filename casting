@@ -1,0 +1,6 @@
+pi = 3.14  # float number
+print(type(pi))
+
+num = int(pi)
+print("Integer number:", num)
+print(type(num))
