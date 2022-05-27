@@ -1,0 +1,6 @@
+my_list = [11, 15, 21, 29, 50, 70]
+number = 15
+if number in my_list:
+    print("number is present")
+else:
+    print("number is not present")
