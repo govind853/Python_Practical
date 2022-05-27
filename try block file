@@ -1,0 +1,16 @@
+try:
+   
+   pass
+
+except ValueError:
+ 
+   pass
+
+except (TypeError, ZeroDivisionError):
+   # handle multiple exceptions
+ 
+   pass
+
+except:
+   
+   pass
